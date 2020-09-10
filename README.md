@@ -139,7 +139,7 @@ using vias to go from one layer to onother, I call this the "ping pong" routing
 
 ![all rule violations are fixed and the board is validated with 0 errors](https://user-images.githubusercontent.com/57021975/92670157-479eca00-f30b-11ea-8f88-c1384f075f81.png)
 
-### 29 - Drawing the power and ground planes on the bottom layer
+### 29 - Drawing the power and the ground planes on the bottom layer
 
 ![drawing the power and Ground planes on the bottom layer](https://user-images.githubusercontent.com/57021975/92670247-82a0fd80-f30b-11ea-896b-2a51b9d9461f.png)
 
