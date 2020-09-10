@@ -95,22 +95,123 @@ during this project, I learned how :
 
 ![1x3 header](https://user-images.githubusercontent.com/57021975/92667251-4e294380-f303-11ea-95d3-b316b50907e4.JPG)
 
-### 18 - successful compilation of the project's schematics
+### 18 - Successful compilation of the project's schematics
 
 ![0 error](https://user-images.githubusercontent.com/57021975/92667338-934d7580-f303-11ea-9e5d-043150f96347.png)
 
-### 19 - starting the placement of some components on the board 
+### 19 - Starting the placement of some components on the board 
 
 ![work in progress  more 273 component to place](https://user-images.githubusercontent.com/57021975/92667397-be37c980-f303-11ea-83b2-ca7614c2b175.png)
 
-### 20 - placements of half of the components
+### 20 - Placements of half of the components
+By taking advantage of the altium's features cross probe and components cross selection, i could select components from shematic sheet and at the same time they are selected in the PCB sheet, which make it easier to put couplage capacitors as close as possible to their power pins  
 
 ![half way](https://user-images.githubusercontent.com/57021975/92667486-f50ddf80-f303-11ea-9303-20984bad76c0.png)
 
-### 21 - placements of the components complete 
+### 21 - Placements of the components complete 
 
-![placement complete](https://user-images.githubusercontent.com/57021975/92667522-14a50800-f304-11ea-8b17-5860941f3385.png)
+![placement complete_blue](https://user-images.githubusercontent.com/57021975/92668707-74e97900-f307-11ea-9460-e5660df64d0a.png)
 
-### 22 - 
+### 22 - Layer's stackup in 3D  
+standard  dielectric   : 1.6mm 
+![layer 3D](https://user-images.githubusercontent.com/57021975/92668801-b8dc7e00-f307-11ea-811b-c9978eb67788.png)
+
+### 23 - Starting to route long tracks
+
+![Starting to route long connections first](https://user-images.githubusercontent.com/57021975/92669131-95660300-f308-11ea-9a18-1bd57fa7b091.png)
+
+### 24 - Routing some long tracks through 2 layers
+using vias to go from one layer to onother, I call this the "ping pong" routing
+
+### 25 - Routing 2 tracks through 2 layers (some imporvements are made)
+
+![routing 2 connections through 2 layers ( some imporvements are done )](https://user-images.githubusercontent.com/57021975/92669951-d4955380-f30a-11ea-99b6-3641e7422cf1.png)
+
+### 26 - Finished routing long connections, short connections and Power connections (Power connections are highlighted in the picture)
+
+![Finished routing long connections, short connections and Power connections (Power connections are highlighted in the picture)](https://user-images.githubusercontent.com/57021975/92670013-f4c51280-f30a-11ea-8fd4-0e4bbce37a00.png)
+
+### 27 - Finished routing all the connections on the board and debugging and fixing all violations errors one by one
+
+![Finished routing all the connections on the board and debugging and fixing all violations errors one by one](https://user-images.githubusercontent.com/57021975/92670106-2ccc5580-f30b-11ea-8367-613140a4f88c.png)
+
+### 28 - All rule violations are fixed and the board is validated with 0 errors
+
+![all rule violations are fixed and the board is validated with 0 errors](https://user-images.githubusercontent.com/57021975/92670157-479eca00-f30b-11ea-8f88-c1384f075f81.png)
+
+### 29 - Drawing the power and ground planes on the bottom layer
+
+![drawing the power and Ground planes on the bottom layer](https://user-images.githubusercontent.com/57021975/92670247-82a0fd80-f30b-11ea-896b-2a51b9d9461f.png)
+
+### 30 - DRC check with 0 errors after improving layout and finishing drawing power and ground planes
+
+![DRC check 0 errors after imroving layout and finishing drawing power and ground planes](https://user-images.githubusercontent.com/57021975/92670349-c3007b80-f30b-11ea-85b9-4c1f7970e453.JPG)
+
+### 31 - PCB layout after doing some improvements and drawing all the power and ground planes
+
+![PCB layout after doing some improvments and drawing power and ground planes](https://user-images.githubusercontent.com/57021975/92670454-f5aa7400-f30b-11ea-896c-44db72fbb968.JPG)
+
+### 32 - Bottom overlay
+
+![bottom overlay](https://user-images.githubusercontent.com/57021975/92670512-1d014100-f30c-11ea-9fe7-972c0cb03011.JPG)
+
+### 33 - Last compile after completing the layout 
+
+![Last compile, last check](https://user-images.githubusercontent.com/57021975/92670631-56d24780-f30c-11ea-9736-3c9740ace571.png)
+
+### 34 - Last design rule check after finishing the layout 
+
+![Last design rule check](https://user-images.githubusercontent.com/57021975/92670690-749fac80-f30c-11ea-8620-7181d859653e.png)
+
+### 35 - Gerber top layer
+
+![Gerber Top Layer](https://user-images.githubusercontent.com/57021975/92670800-b0d30d00-f30c-11ea-841f-0421a113adaa.png)
+
+### 36 - Gerber bottom layer
+
+![Gerber bottom Layer](https://user-images.githubusercontent.com/57021975/92670846-cd6f4500-f30c-11ea-93ff-8cf4013e1a63.png)
+
+### 37 - Gerber top overlay
+
+![Gerber Top Overlay](https://user-images.githubusercontent.com/57021975/92670884-e37d0580-f30c-11ea-8bba-ea69fdc6409d.png)
+
+### 38 - Gerber bottom overlay
+
+![Gerber Bottom Overlay](https://user-images.githubusercontent.com/57021975/92671014-2a6afb00-f30d-11ea-9231-3ca2ebfb2397.png)
+
+
+### 39 - Gerber mechanical drawing
+
+![Gerber Mechanical Drawing](https://user-images.githubusercontent.com/57021975/92670947-03acc480-f30d-11ea-84c6-e9a862b16778.png)
+
+### 40 - Generated PDF mechanical drawing
+
+![Generated PDF Mechanical Drawing ](https://user-images.githubusercontent.com/57021975/92671120-600fe400-f30d-11ea-964a-81f10fc585bc.png)
+
+### 41 - Generated PDF of the assembly drawing variant fixed 5V
+
+![Assembly drawing variant fixed 5](https://user-images.githubusercontent.com/57021975/92671158-7158f080-f30d-11ea-878b-2161d65100cc.png)
+
+### 42 - Generated PDF of the assembly drawing variant 5V 3V3
+
+![Assembly drawing variant  5V 3V3](https://user-images.githubusercontent.com/57021975/92671239-9fd6cb80-f30d-11ea-896f-b3450791e749.png)
+
+### 43 - Generated PDF of the assembly top view fixed 5V 
+
+![Assembly top view 5V fixed](https://user-images.githubusercontent.com/57021975/92671289-c137b780-f30d-11ea-9140-18665d05e26f.png)
+
+### 44 - Generated PDF of the assembly top view 5V 3V3
+
+![Assembly top view 5V 3V3](https://user-images.githubusercontent.com/57021975/92671326-e0364980-f30d-11ea-8c63-f5ce82028583.png)
+
+### 45 - 3D model of my board in Altium Designer
+
+![3D Model in Altium](https://user-images.githubusercontent.com/57021975/92671407-18d62300-f30e-11ea-965f-991f84229cb6.JPG)
+
+
+
+
+
+
 
 
