@@ -108,7 +108,7 @@ By taking advantage of the altium's features cross probe and components cross se
 
 ![half way](https://user-images.githubusercontent.com/57021975/92667486-f50ddf80-f303-11ea-9303-20984bad76c0.png)
 
-### 21 - Placements of the components complete 
+### 21 - Placements of the components is complete 
 
 ![placement complete_blue](https://user-images.githubusercontent.com/57021975/92668707-74e97900-f307-11ea-9460-e5660df64d0a.png)
 
