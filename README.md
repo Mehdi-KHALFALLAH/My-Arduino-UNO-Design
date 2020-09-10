@@ -103,12 +103,12 @@ during this project, I learned how :
 
 ![work in progress  more 273 component to place](https://user-images.githubusercontent.com/57021975/92667397-be37c980-f303-11ea-83b2-ca7614c2b175.png)
 
-### 20 - Placements of half of the components
+### 20 - Placement of half of the components
 By taking advantage of the altium's features cross probe and components cross selection, i could select components from shematic sheet and at the same time they are selected in the PCB sheet, which make it easier to put couplage capacitors as close as possible to their power pins  
 
 ![half way](https://user-images.githubusercontent.com/57021975/92667486-f50ddf80-f303-11ea-9303-20984bad76c0.png)
 
-### 21 - Placements of the components is complete 
+### 21 - Placement of the components is complete 
 
 ![placement complete_blue](https://user-images.githubusercontent.com/57021975/92668707-74e97900-f307-11ea-9460-e5660df64d0a.png)
 
