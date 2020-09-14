@@ -33,6 +33,7 @@ during this project, I learned how :
  
  ***IV. [ PCB Layout & Routing. ](#hard)***
 
+ ***V. [ Gerber files, mechanical and assembly drawing. ](#medium)***
 
 
  
@@ -189,6 +190,9 @@ using vias to go from one layer to onother, I call this the "ping pong" routing
 ### 34 - Last design rule check after finishing the layout 
 
 ![Last design rule check](https://user-images.githubusercontent.com/57021975/92670690-749fac80-f30c-11ea-8620-7181d859653e.png)
+
+<a name="medium"></a>
+## V. Gerber files, mechanical and assembly drawing
 
 ### 35 - Gerber top layer
 
