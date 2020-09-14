@@ -33,16 +33,8 @@ during this project, I learned how :
  ***IV. [ PCB Layout & Routing ](#hard)***
 
  ***V.   [ Gerber files, mechanical and assembly drawing ](#medium)***
+<space>
  <space>
- <space>
- 
-
- 
- 
- 
- 
- 
- 
  <a name="desc"></a>
 ## I. Creating my own libraries
  
