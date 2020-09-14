@@ -25,7 +25,7 @@ during this project, I learned how :
  ## Summary of my project
  
  ### 1 - Designing my first component : the ATMEGA16U2-AU 
- Drawing the schematic and generating the footprint in my own using the Altium tool **"footprint wizard"**. 
+ Drawing the schematic and generating the footprint in my own using the Altium tool ***"footprint wizard"***. 
  P.S: footprint's dimensions are taken from the component datasheet :
  
  ![ATMEGA16U2-AU](https://user-images.githubusercontent.com/57021975/92661726-24692000-f2f5-11ea-8991-7cdcb7b960ff.png)
