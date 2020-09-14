@@ -24,6 +24,20 @@ during this project, I learned how :
 
  ## Summary of my project
  
+ 1. [ Description. ](#desc)
+2. [ Usage tips. ](#usage)
+
+<a name="desc"></a>
+## 1. Description
+
+sometext
+
+<a name="usage"></a>
+## 2. Usage tips
+
+sometext
+ 
+ 
  ### 1 - Designing my first component : the ATMEGA16U2-AU 
  Drawing the schematic and generating the footprint in my own using the Altium tool ***"footprint wizard"***. 
  P.S: footprint's dimensions are taken from the component datasheet :
