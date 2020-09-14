@@ -23,7 +23,9 @@ during this project, I learned how :
 
 
  ## Summary of my project
- 
+ <br />
+ <br />
+ <br />
  ***I.  [ Creating my own libraries ](#desc)***
  
  ***II. [ Components placement ](#usage)***
@@ -34,6 +36,9 @@ during this project, I learned how :
 
  ***V.   [ Gerber files, mechanical and assembly drawing ](#medium)***
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
