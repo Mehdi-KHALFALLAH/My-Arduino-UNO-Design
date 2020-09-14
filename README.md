@@ -25,19 +25,19 @@ during this project, I learned how :
  ## Summary of my project
  <br />
  
- ***I**.**  [ Creating my own libraries ](#desc)***
+ ***I.  [ Creating my own libraries ](#desc)***
  
- ***II**.**  [ Components placement ](#usage)***
+ ***II. [ Components placement ](#usage)***
  
- ***III**.**  [ Layer's stackup ](#easy)***
+ ***III. [ Layer's stackup ](#easy)***
  
- ***IV**.**  [ PCB Layout & Routing ](#hard)***
+ ***IV.  [ PCB Layout & Routing ](#hard)***
 
- ***V**.**   [ Gerber files, mechanical and assembly drawing ](#medium)***
+ ***V.  [ Gerber files, mechanical and assembly drawing ](#medium)***
 
-***VI**.**    [ 3D model ](#day)***
+***VI.   [ 3D model ](#day)***
 
-***VII**.**    [ VII. Electromagnetic and Signal Integrity (SI) analysis and current density plot with ***ANSYS SIwave***  ](#night)***
+***VII.  [ VII. Electromagnetic and Signal Integrity (SI) analysis and current density plot with ***ANSYS SIwave***  ](#night)***
 <br />
 <br />
 <br />
