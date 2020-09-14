@@ -24,8 +24,7 @@ during this project, I learned how :
 
  ## Summary of my project
  <br />
- <br />
- <br />
+ 
  ***I.  [ Creating my own libraries ](#desc)***
  
  ***II. [ Components placement ](#usage)***
