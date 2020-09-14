@@ -25,9 +25,9 @@ during this project, I learned how :
  ## Summary of my project
  
  
- ***I.  [ Creating my own libraries. ](#desc)***
+ ***I.   [ Creating my own libraries. ](#desc)***
  
- ***II. [ Components placement. ](#usage)***
+ ***II.  [ Components placement. ](#usage)***
  
  ***III.[ Layer's stackup. ](#easy)***
  
