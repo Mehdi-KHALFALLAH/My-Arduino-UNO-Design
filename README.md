@@ -20,6 +20,8 @@ during this project, I learned how :
 - Generate Gerbers, Pick and Place, Drill file, and other files needed for manufacturing
 - Prepare professional documents needed to manufacture your PCB and assemble your board
 
+
+
  ## Summary of my project
  
  ### 1 - Designing my first component : the ATMEGA16U2-AU 
@@ -209,7 +211,43 @@ using vias to go from one layer to onother, I call this the "ping pong" routing
 
 ![3D Model in Altium](https://user-images.githubusercontent.com/57021975/92671407-18d62300-f30e-11ea-965f-991f84229cb6.JPG)
 
+### 46 - Current density analysis using ANSYS SIwave 
 
+using the advanced simulation software especially designed for PCBs, i could do a current density analysis and generate an easy-to-understand plot
+
+![Current-Voltage analysis using SIwave from Ansys](https://user-images.githubusercontent.com/57021975/93142734-84d5d400-f6de-11ea-880f-57311c3e02d4.JPG)
+
+### 47 -  High current density
+
+showing high current density coming from OUT pin of the regulator to the ATMEGA16U2-AU
+
+![showing high current density coming from OUT pin of the regulator to the atmega](https://user-images.githubusercontent.com/57021975/93143022-075e9380-f6df-11ea-9412-75072203bc75.JPG)
+
+### 48 - Far end crosstalk analysis between traces
+
+![far end crosstalk between traces](https://user-images.githubusercontent.com/57021975/93143084-21987180-f6df-11ea-8abb-03cdea69de1c.JPG)
+
+### 49 - Near end crosstalk violations and warnings
+
+![near end crosstalk violations and warnings](https://user-images.githubusercontent.com/57021975/93143132-3aa12280-f6df-11ea-8124-ffef3fbfb923.JPG)
+
+### 50 - Trace impedance analysis
+
+trace impedance analysis, some improvements and fixes must be done
+
+![trace inpedance analisys, some imporvlements and fices must be done](https://user-images.githubusercontent.com/57021975/93143217-67553a00-f6df-11ea-98ee-ee542cd3ff3f.JPG)
+
+### 60 - Resonance analysis
+
+![resonance analysis with ansys](https://user-images.githubusercontent.com/57021975/93143413-ce72ee80-f6df-11ea-9410-d647f9bc23cf.JPG)
+
+### 61 - Failure analysis, simulating MTTF(Mean time to Failure)
+
+![Failure analysis , simulating MTTF(Mean time to Failure)](https://user-images.githubusercontent.com/57021975/93143475-f3676180-f6df-11ea-8c13-a3154dd8135d.JPG)
+
+### 62 - MTTF plot
+
+![MTTF plot, board is good to go](https://user-images.githubusercontent.com/57021975/93143522-09752200-f6e0-11ea-82dc-be8a67375fa6.JPG)
 
 
 
