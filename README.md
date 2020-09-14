@@ -36,6 +36,8 @@ during this project, I learned how :
  ***V.   [ Gerber files, mechanical and assembly drawing ](#medium)***
 
 ***VI.   [ 3D model ](#day)***
+
+***VII.   [ VII. Electromagnetic and Signal Integrity (SI) analysis and current density plot with ***ANSYS SIwave***  ](#night)***
 <br />
 <br />
 <br />
@@ -243,11 +245,15 @@ using vias to go from one layer to onother, I call this the "ping pong" routing
 ![Assembly top view 5V 3V3](https://user-images.githubusercontent.com/57021975/92671326-e0364980-f30d-11ea-8c63-f5ce82028583.png)
 
 <a name="day"></a>
-## V. 3D model
+## VI. 3D model
 
 ### 45 - 3D model of my board in Altium Designer
 
 ![3D Model in Altium](https://user-images.githubusercontent.com/57021975/92671407-18d62300-f30e-11ea-965f-991f84229cb6.JPG)
+
+<a name="day"></a>
+## VII. Electromagnetic and Signal Integrity (SI) analysis and current density plot with ***ANSYS SIwave*** 
+
 
 ### 46 - Current density analysis using ANSYS SIwave 
 
