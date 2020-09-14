@@ -33,7 +33,8 @@ during this project, I learned how :
  ***IV. [ PCB Layout & Routing ](#hard)***
 
  ***V.   [ Gerber files, mechanical and assembly drawing ](#medium)***
- &nbsp;&nbsp;&nbsp;&nbsp;
+ <space>
+ <space>
  
 
  
