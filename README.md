@@ -25,7 +25,7 @@ during this project, I learned how :
  ## Summary of my project
  <br />
  
- ***I.  [ Creating my own libraries ](#desc)***
+ ***I.  [ Creating my own libraries (schematics, footprints and adding a 3D model to each component) ](#desc)***
  
  ***II. [ Components placement ](#usage)***
  
@@ -47,7 +47,7 @@ during this project, I learned how :
 
 
  <a name="desc"></a>
-## I. Creating my own libraries
+## I. Creating my own libraries (schematics, footprints and adding a 3D model to each component)
  
  ### 1 - Designing my first component : the ATMEGA16U2-AU 
  Drawing the schematic and generating the footprint in my own using the Altium tool ***"footprint wizard"***. 
