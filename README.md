@@ -23,10 +23,7 @@ during this project, I learned how :
 
 
  ## Summary of my project
- &nbsp;
- &nbsp;
- &nbsp;
- &nbsp;
+ 
  ***I.  [ Creating my own libraries ](#desc)***
  
  ***II. [ Components placement ](#usage)***
