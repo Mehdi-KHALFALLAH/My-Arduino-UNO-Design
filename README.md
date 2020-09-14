@@ -25,14 +25,16 @@ during this project, I learned how :
  ## Summary of my project
  
  
- 1. [ Creating my own libraries. ](#desc)
- 2. [ Components placement. ](#usage)
+ I.  [ Creating my own libraries. ](#desc)
+ II. [ Components placement. ](#usage)
+ III.[ Layer's stackup. ](#easy)
+ IV. [ PCB Layout & Routing. ](#hard)
 
 
 
  
  <a name="desc"></a>
-## 1. Creating my own libraries
+## I. Creating my own libraries
  
  ### 1 - Designing my first component : the ATMEGA16U2-AU 
  Drawing the schematic and generating the footprint in my own using the Altium tool ***"footprint wizard"***. 
@@ -113,7 +115,7 @@ during this project, I learned how :
 ![0 error](https://user-images.githubusercontent.com/57021975/92667338-934d7580-f303-11ea-9e5d-043150f96347.png)
 
 <a name="usage"></a>
-## 2. Components placement
+## II. Components placement
 
 ### 19 - Starting the placement of some components on the board 
 
@@ -128,9 +130,15 @@ By taking advantage of the altium's features cross probe and components cross se
 
 ![placement complete_blue](https://user-images.githubusercontent.com/57021975/92668707-74e97900-f307-11ea-9460-e5660df64d0a.png)
 
+<a name="easy"></a>
+## III. Layer's stackup
+
 ### 22 - Layer's stackup in 3D  
 standard  dielectric   : 1.6mm 
 ![layer 3D](https://user-images.githubusercontent.com/57021975/92668801-b8dc7e00-f307-11ea-811b-c9978eb67788.png)
+
+ <a name="hard"></a>
+## IV. PCB Layout & Routing
 
 ### 23 - Starting to route long tracks
 
