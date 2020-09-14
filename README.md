@@ -26,8 +26,11 @@ during this project, I learned how :
  
  
  I.  [ Creating my own libraries. ](#desc)
+ 
  II. [ Components placement. ](#usage)
+ 
  III.[ Layer's stackup. ](#easy)
+ 
  IV. [ PCB Layout & Routing. ](#hard)
 
 
