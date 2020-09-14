@@ -24,19 +24,15 @@ during this project, I learned how :
 
  ## Summary of my project
  
- 1. [ Description. ](#desc)
-2. [ Usage tips. ](#usage)
-
-<a name="desc"></a>
-## 1. Description
-
-sometext
-
-<a name="usage"></a>
-## 2. Usage tips
-
-sometext
  
+ 1. [ Creating my own libraries. ](#desc)
+ 2. [ Components placement. ](#usage)
+
+
+
+ 
+ <a name="desc"></a>
+## 1. Creating my own libraries
  
  ### 1 - Designing my first component : the ATMEGA16U2-AU 
  Drawing the schematic and generating the footprint in my own using the Altium tool ***"footprint wizard"***. 
@@ -115,6 +111,9 @@ sometext
 ### 18 - Successful compilation of the project's schematics
 
 ![0 error](https://user-images.githubusercontent.com/57021975/92667338-934d7580-f303-11ea-9e5d-043150f96347.png)
+
+<a na="usage"></a>
+## 2. Components placement
 
 ### 19 - Starting the placement of some components on the board 
 
