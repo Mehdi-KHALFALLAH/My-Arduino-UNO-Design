@@ -35,12 +35,13 @@ during this project, I learned how :
 
  ***V.   [ Gerber files, mechanical and assembly drawing ](#medium)***
 
+***VI.   [ 3D model ](#day)***
 <br />
 <br />
 <br />
 <br />
-<br />
-<br />
+<
+
 
 
  <a name="desc"></a>
@@ -240,6 +241,9 @@ using vias to go from one layer to onother, I call this the "ping pong" routing
 ### 44 - Generated PDF of the assembly top view 5V 3V3
 
 ![Assembly top view 5V 3V3](https://user-images.githubusercontent.com/57021975/92671326-e0364980-f30d-11ea-8c63-f5ce82028583.png)
+
+<a name="day"></a>
+## V. 3D model
 
 ### 45 - 3D model of my board in Altium Designer
 
