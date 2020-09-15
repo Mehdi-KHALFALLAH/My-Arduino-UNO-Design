@@ -23,7 +23,6 @@ during this project, I learned how :
 
 
  ## Summary of my project
- <br />
  
  ### table of contents
  <br />
@@ -41,6 +40,8 @@ during this project, I learned how :
 ***VI.   [ 3D model ](#day)***
 
 ***VII.  [ VII. Electromagnetic and Signal Integrity (SI) analysis and current density plot with ***ANSYS SIwave***  ](#night)***
+<br />
+<br />
 <br />
 <br />
 <br />
