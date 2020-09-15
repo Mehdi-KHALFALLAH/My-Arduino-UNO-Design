@@ -26,7 +26,7 @@ during this project, I learned how :
  <br />
  
  ### table of contents
- 
+ <br />
  
  ***I.  [ Creating my own libraries (schematics, footprints and adding a 3D model to each component) ](#desc)***
  
