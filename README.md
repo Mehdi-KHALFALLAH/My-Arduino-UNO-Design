@@ -254,6 +254,7 @@ using vias to go from one layer to onother, I call this the "ping pong" routing
 ### 45 - 3D model of my board in Altium Designer
 
 ![3D Model in Altium](https://user-images.githubusercontent.com/57021975/92671407-18d62300-f30e-11ea-965f-991f84229cb6.JPG)
+![board behind](https://user-images.githubusercontent.com/57021975/93397915-76202600-f872-11ea-822a-4b2f5c9a0a3c.JPG)
 
 <a name="night"></a>
 ## VII. Electromagnetic and Signal Integrity (SI) analysis and current density plot with ***ANSYS SIwave*** 
