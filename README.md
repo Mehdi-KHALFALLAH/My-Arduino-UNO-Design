@@ -151,7 +151,7 @@ By taking advantage of the altium's features cross probe and components cross se
 ## III. Layer's stackup
 
 ### 22 - Layer's stackup in 3D  
-standard  dielectric   : 1.6mm 
+standard  dielectric thickness   : 1.6mm 
 ![layer 3D](https://user-images.githubusercontent.com/57021975/92668801-b8dc7e00-f307-11ea-811b-c9978eb67788.png)
 
  <a name="hard"></a>
