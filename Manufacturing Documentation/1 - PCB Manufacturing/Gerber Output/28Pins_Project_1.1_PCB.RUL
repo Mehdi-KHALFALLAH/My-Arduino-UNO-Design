@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\28Pins_Project_1.1_PCB.PcbDoc
+RuleKind=Clearance|RuleName=polygons clearance|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Width_POWERS|Scope=Board|Minimum=15.75
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

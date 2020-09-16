@@ -1,0 +1,38 @@
+Follow this procedure before releasing files. Confirm every action with your initials and date.
+IF ANY CHANGES NEEDS TO BE DONE, START THE PROCEDURE FROM BEGINNING!
+
+The procedure needs to be executed in order as defined here. Start from number 1
+--------------------------------------------------------------------------------
+
+
+1) Right Click on the project -> Compile PCB project
+I confirm, the project compiles with no errors: 
+YourIntials [12:02:52  08/09/2020]
+
+
+2) Run Design -> Update PCB Document
+I confirm, there are no differences between Schematic and PCB: 
+YourIntials [12:05:29  08/09/2020]
+
+
+3) Impedance
+I confirm, I have updated and check track width/gap to match required impedance (e.g 55 OHMs): 
+NA
+
+
+4) Run Tools -> Polygon Pours -> Rebuild All
+I confirm, all polygons have been repoured: 
+YourIntials [12:06:42  08/09/2020]
+
+
+5) Run Tools -> Design Rule Check -> Run Design Rule Check
+I confirm, I have checked Design Rule Output File:
+YourIntials [12:33:11  08/09/2020]
+
+
+6) Gerber check
+I confirm, I have copied and visually checked gerber files placed in \PCB Manufacturing\Gerber Output\
+YourIntials [17:27:11  08/09/2020]
+
+
+
