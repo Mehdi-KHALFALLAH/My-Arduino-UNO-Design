@@ -3,7 +3,7 @@
 
 ## Contents and Overview
 
-During this project, I deepened and honed my knowledge about ***Altium Designer*** software and how to do professional PCB design. Altium Designer is a professional software used to design all kinds of boards, from very simple ones to motherboards or servers. It is one of the most used software for electronic design.
+During this project, I deepened and honed my knowledge about ***Altium Designer*** (Version 20.0.10) software and how to do professional PCB design. Altium Designer is a professional software used to design all kinds of boards, from very simple ones to motherboards or servers. It is one of the most used software for electronic design.
 
 I started with Arduino Uno reference schematic. I learned how to re-draw the schematic, modify it, I learned how to improve it and how to do PCB layout. and by the end of the project, I learned what documents are necessary to manufacture the board and how to create them.
 
