@@ -1,0 +1,39 @@
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of Project [28_Pin Project V1.1.PrjPcb]
+   Generated File[matrix]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[28Pins_Project_1.1_PCB.REP]
+
+
+Files Generated   : 30
+Documents Printed : 0
+
+Finished Output Generation At 10:35:51 On 14/09/2020

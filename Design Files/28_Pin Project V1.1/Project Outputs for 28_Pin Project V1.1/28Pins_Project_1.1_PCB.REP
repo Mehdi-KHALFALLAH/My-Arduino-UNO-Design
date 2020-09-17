@@ -1,0 +1,104 @@
+*************************************************************
+FileName = 28Pins_Project_1.1_PCB.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\matrix\matrix
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\profile
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\l2\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\l2\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\drill_guide\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\drill_guide\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\board_shape\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\board_shape\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\l1\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\l1\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\drill_drawing\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\drill_drawing\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\multi-layer\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\multi-layer\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\bottom_smd_top_smd_bottom\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\bottom_smd_top_smd_bottom\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\mechanical_drawing\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\mechanical_drawing\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\manufacturing_notes\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\manufacturing_notes\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\licence\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\licence\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\top_smd_top_smd_bottom\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\top_smd_top_smd_bottom\attrlist
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\USER\Desktop\altium designer projects\28Pins\Design Files\28_Pin Project V1.1\Project Outputs for 28_Pin Project V1.1\odb\steps\pcb\eda\data
+
