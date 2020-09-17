@@ -280,19 +280,6 @@ trace impedance analysis, some improvements and fixes must be done
 
 ![trace inpedance analisys, some imporvlements and fices must be done](https://user-images.githubusercontent.com/57021975/93143217-67553a00-f6df-11ea-98ee-ee542cd3ff3f.JPG)
 
-### 50 - Resonance analysis
-
-![resonance analysis with ansys](https://user-images.githubusercontent.com/57021975/93143413-ce72ee80-f6df-11ea-9410-d647f9bc23cf.JPG)
-
-### 51 - Failure analysis, simulating MTTF(Mean time to Failure)
-
-![Failure analysis , simulating MTTF(Mean time to Failure)](https://user-images.githubusercontent.com/57021975/93143475-f3676180-f6df-11ea-8c13-a3154dd8135d.JPG)
-
-### 52 - MTTF plot
-
-![MTTF plot, board is good to go](https://user-images.githubusercontent.com/57021975/93143522-09752200-f6e0-11ea-82dc-be8a67375fa6.JPG)
-
-
 
 
 
